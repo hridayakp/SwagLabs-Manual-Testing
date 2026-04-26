@@ -1,10 +1,35 @@
-Title: # Swag Labs Manual Testing Project
-Summary: A comprehensive manual test suite for Sauce Demo e-commerce platform
-Scope: ** Total Test Cases : 38**
-Login: 13 Testcases (including locked out user scenarios)
-Logout: 5 Testcases ( including session termination checks)
-Shopping cart and UI: 20 Testcases (including end to end checkout flow)
-Highlights: Includes negative testing and security checks such as password masking
-Instruction: Please refer to the uploaded .xlsx file for full test steps and P1-P3 priority levels.
+## Manual QA Testing Project – E-commerce Application
+
+### Application Tested:
+
+Swag Labs / Automation Exercise
+
+### Scope:
+
+* Login & Registration
+* Product Search
+* Add to Cart
+* Checkout Process
+
+### Testing Types:
+
+* Functional Testing
+* Regression Testing
+* UI Testing
+
+### Deliverables:
+
+* 30+ Test Cases
+* 10+ Bug Reports
+
+### Tools Used:
+
+* Excel / Google Sheets
+* Manual Testing
+
+### Project Summary:
+
+This project demonstrates hands-on experience in test case design, execution, and defect reporting.
+
 
 
